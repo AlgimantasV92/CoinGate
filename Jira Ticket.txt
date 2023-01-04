@@ -1,0 +1,13 @@
+There are several steps I would take to test the login and sign up inputs in Jira:
+
+1. First, I would review the requirements and any relevant documentation to ensure I have a clear understanding of what needs to be tested.
+
+2. Next, I would create a test plan outlining the specific tests I will be performing on the login and sign up inputs. 
+This might include tests for valid and invalid input, as well as tests for different user roles and permissions.
+
+3. Then, I would set up a test environment with the appropriate information in Jira and any necessary test data.
+
+4. Once the test environment is set up, I would begin executing the tests outlined in my test plan, making sure to document any issues or bugs that I encounter.
+
+5. After all of the tests have been completed, I would compile my results and create a report detailing my findings. 
+If any issues were discovered, I would include notes about it.
